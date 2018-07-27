@@ -18,7 +18,7 @@ Exec=${installation_prefix}/speak_text.sh\n\
 Icon=${installation_prefix}/bullhorn.svg\n\
 Terminal=false\n\
 Type=Application\n\
-Categories=System;Utility;Application;\n\
+Categories=Utility;Application;Player;Audio;\n\
 StartupNotify=true\n\
 X-Desktop-File-Install-Version=3.0"
 
